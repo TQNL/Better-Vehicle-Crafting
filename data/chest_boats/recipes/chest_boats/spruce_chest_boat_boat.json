@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "chest_boat_chests",
+  "cookingtime": 1,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "minecraft:spruce_chest_boat"
+  },
+  "result": "minecraft:spruce_boat"
+}
