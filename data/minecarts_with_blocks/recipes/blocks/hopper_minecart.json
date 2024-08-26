@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "minecart_uncrafts",
+  "ingredients": [
+    {
+      "item": "minecraft:hopper_minecart"
+    }
+  ],
+  "result": {
+    "id": "minecraft:hopper_minecart",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Minecart and Hopper\"}",
+      "minecraft:custom_data": {
+        "cart_type": "hopper",
+        "better_vehicle_crafting": true
+      }
+    }
+  }
+}
