@@ -4,16 +4,16 @@
   "group": "chest_boat_uncrafts",
   "ingredients": [
     {
-      "item": "minecraft:acacia_chest_boat"
+      "item": "minecraft:cherry_chest_boat"
     }
   ],
   "result": {
-    "id": "minecraft:acacia_chest_boat",
+    "id": "minecraft:cherry_chest_boat",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Acacia Boat and Chest\"}",
+      "minecraft:custom_name": "{\"text\":\"Cherry Boat and Chest\"}",
       "minecraft:custom_data": {
-        "boat_type": "acacia",
+        "boat_type": "cherry",
         "better_vehicle_crafting": true
       }
     }

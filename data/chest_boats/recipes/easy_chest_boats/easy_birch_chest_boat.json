@@ -1,6 +1,10 @@
 {
   "type": "minecraft:crafting_shaped",
   "group": "easy_chest_boats",
+  "pattern": [
+    "ICI",
+    "III"
+  ],
   "key": {
     "C": {
       "item": "minecraft:chest"
@@ -9,11 +13,7 @@
       "item": "minecraft:birch_planks"
     }
   },
-  "pattern": [
-    "ICI",
-    "III"
-  ],
   "result": {
-    "item": "minecraft:birch_chest_boat"
+    "id": "minecraft:birch_chest_boat"
   }
 }
