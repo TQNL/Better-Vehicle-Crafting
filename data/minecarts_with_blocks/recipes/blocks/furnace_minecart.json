@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "minecart_uncrafts",
+  "ingredients": [
+    {
+      "item": "minecraft:furnace_minecart"
+    }
+  ],
+  "result": {
+    "id": "minecraft:furnace_minecart",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Minecart and Furnace\"}",
+      "minecraft:custom_data": {
+        "cart_type": "furnace",
+        "better_vehicle_crafting": true
+      }
+    }
+  }
+}

@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:tnt_minecart"
+        "recipe": "minecraft:chest_minecart"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecarts_with_blocks:blocks/tnt_minecart_tnt"
+      "minecarts_with_blocks:blocks/chest_minecart"
     ]
   }
 }

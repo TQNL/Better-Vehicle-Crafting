@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecarts_with_blocks:minecarts/hopper_minecart_minecart"
+      "minecarts_with_blocks:blocks/hopper_minecart"
     ]
   }
 }

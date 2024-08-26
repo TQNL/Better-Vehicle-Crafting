@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "minecart_uncrafts",
+  "ingredients": [
+    {
+      "item": "minecraft:tnt_minecart"
+    }
+  ],
+  "result": {
+    "id": "minecraft:tnt_minecart",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Minecart and TNT\"}",
+      "minecraft:custom_data": {
+        "cart_type": "tnt",
+        "better_vehicle_crafting": true
+      }
+    }
+  }
+}
