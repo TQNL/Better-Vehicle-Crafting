@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecarts_with_blocks_blocks",
+    "ingredients": [
+        {
+            "item": "minecraft:hopper_minecart"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 10
+    }
+}
