@@ -1,5 +1,7 @@
 # Better Vehicle Crafting
-Uncraft minecart with blocks and chest boats. By ThijquintNL. Smelt for minecarts/boats, craft for blocks/chests (note: hopper_minecarts give 10 iron ingots). Also adds easier recipes with 5 planks/iron ingots and a block or chest.
+Uncraft minecart with blocks and chest boats. By ThijquintNL. 
+
+Chest Boats when used as a crafting ingredient will output an item that turns into a chest and the normal boat in your inventory.
 
 ### notice
 - If you want to support small creators like me, you can turn off ad blocker on Modrinth.

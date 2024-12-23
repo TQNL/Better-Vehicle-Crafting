@@ -1,13 +1,21 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "chest_boat_chests",
-    "ingredients": [
-        {
-            "item": "minecraft:spruce_chest_boat"
-        }
-    ],
-    "result": {
-        "item": "minecraft:chest",
-        "count": 1
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chest_boat_uncrafts",
+  "ingredients": [
+    {
+      "item": "minecraft:spruce_chest_boat"
     }
+  ],
+  "result": {
+    "id": "minecraft:spruce_chest_boat",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Spruce Boat and Chest\"}",
+      "minecraft:custom_data": {
+        "boat_type": "spruce",
+        "better_vehicle_crafting": true
+      }
+    }
+  }
 }

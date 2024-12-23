@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:minecart"
+      "id": "minecraft:minecart"
     },
     "title": "Better Vehicle Crafting",
     "description": "Better (un)crafting recipes for minecart variants and chest boats.",
