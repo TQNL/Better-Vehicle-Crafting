@@ -4,16 +4,15 @@
   "group": "chest_boat_uncrafts",
   "ingredients": [
     {
-      "item": "minecraft:acacia_chest_boat"
+      "item": "minecraft:bamboo_chest_raft"
     }
   ],
   "result": {
-    "id": "minecraft:acacia_chest_boat",
+    "id": "minecraft:bamboo_chest_raft",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Acacia Boat and Chest\"}",
+      "minecraft:custom_name": "{\"text\":\"Bamboo Raft and Chest\"}",
       "minecraft:custom_data": {
-        "boat_type": "acacia",
         "better_vehicle_crafting": true
       }
     }
