@@ -3,17 +3,15 @@
   "category": "misc",
   "group": "minecart_uncrafts",
   "ingredients": [
-    {
-      "item": "minecraft:hopper_minecart"
-    }
+    "minecraft:furnace_minecart"
   ],
   "result": {
-    "id": "minecraft:hopper_minecart",
+    "id": "minecraft:furnace_minecart",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Minecart and Hopper\"}",
+      "minecraft:custom_name": "{\"text\":\"Minecart and Furnace\"}",
       "minecraft:custom_data": {
-        "cart_type": "hopper",
+        "cart_type": "furnace",
         "better_vehicle_crafting": true
       }
     }

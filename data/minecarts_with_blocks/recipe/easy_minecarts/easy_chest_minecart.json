@@ -2,18 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "group": "easy_minecarts_with_blocks",
   "key": {
-    "C": {
-      "item": "minecraft:chest"
-    },
-    "I": {
-      "item": "minecraft:iron_ingot"
-    }
+    "C": "minecraft:chest",
+    "I": "minecraft:iron_ingot"
   },
   "pattern": [
     "ICI",
     "III"
   ],
   "result": {
-    "item": "minecraft:chest_minecart"
+    "id": "minecraft:chest_minecart"
   }
 }

@@ -3,17 +3,15 @@
   "category": "misc",
   "group": "minecart_uncrafts",
   "ingredients": [
-    {
-      "item": "minecraft:furnace_minecart"
-    }
+    "minecraft:chest_minecart"
   ],
   "result": {
-    "id": "minecraft:furnace_minecart",
+    "id": "minecraft:chest_minecart",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Minecart and Furnace\"}",
+      "minecraft:custom_name": "{\"text\":\"Minecart and Chest\"}",
       "minecraft:custom_data": {
-        "cart_type": "furnace",
+        "cart_type": "chest",
         "better_vehicle_crafting": true
       }
     }
