@@ -1,10 +1,6 @@
 {
   "pack": {
-    "pack_format": 57,
-    "description": "Uncraft minecart with blocks and chest boats. By ThijquintNL. Smelt for minecarts/boats, craft for blocks/chests (note: hopper_minecarts give 10 iron ingots). Also adds easier recipes with 5 planks/iron ingots and a block or chest.",
-    "supported_formats": {
-      "min_inclusive": 57,
-      "max_inclusive": 61
-    }
+    "pack_format": 61,
+    "description": "Uncraft (and better craft) minecart with blocks and chest boats. By ThijquintNL.",
   }
 }
