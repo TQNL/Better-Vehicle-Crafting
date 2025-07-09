@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chest_boat_uncrafts",
+  "ingredients": [
+    "minecraft:pale_oak_chest_boat"
+  ],
+  "result": {
+    "id": "minecraft:pale_oak_chest_boat",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Pale Oak Boat and Chest\"}",
+      "minecraft:custom_data": {
+        "boat_type": "pale_oak",
+        "better_vehicle_crafting": true
+      }
+    }
+  }
+}
