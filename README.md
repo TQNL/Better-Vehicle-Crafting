@@ -1,5 +1,5 @@
 # Better Vehicle Crafting
-Uncraft minecart with blocks and chest boats. By ThijquintNL. 
+Uncraft minecart with blocks and chest boats. Also gives stackable crafting recipes.
 
 Chest Boats when used as a crafting ingredient will output an item that turns into a chest and the normal boat in your inventory.
 
