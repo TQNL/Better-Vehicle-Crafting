@@ -9,7 +9,7 @@
     "id": "minecraft:chest_minecart",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Minecart and Chest\"}",
+      "minecraft:custom_name": "Minecart and Chest",
       "minecraft:custom_data": {
         "cart_type": "chest",
         "better_vehicle_crafting": true

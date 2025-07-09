@@ -9,7 +9,7 @@
     "id": "minecraft:hopper_minecart",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Minecart and Hopper\"}",
+      "minecraft:custom_name": "Minecart and Hopper",
       "minecraft:custom_data": {
         "cart_type": "hopper",
         "better_vehicle_crafting": true

@@ -9,7 +9,7 @@
     "id": "minecraft:birch_chest_boat",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Birch Boat and Chest\"}",
+      "minecraft:custom_name": "Birch Boat and Chest",
       "minecraft:custom_data": {}
     }
   }
