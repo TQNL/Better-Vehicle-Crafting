@@ -1,1 +1,1 @@
-say Loaded Better Vehicle Crafting
+tellraw @a {"text": "Loaded Better Vehicle Crafting","color": "#00FF00"}

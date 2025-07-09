@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 61,
+    "pack_format": 71,
     "description": "Uncraft (and better craft) minecart with blocks and chest boats. By ThijquintNL.",
+    "supported_formats": {
+      "min_inclusive": 71,
+      "max_inclusive": 9999999
+    }
   }
 }
