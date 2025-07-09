@@ -25,3 +25,6 @@ execute as @a if items entity @s inventory.* bamboo_chest_raft[custom_data~{bett
 
 execute as @a if items entity @s hotbar.* cherry_chest_boat[custom_data~{better_vehicle_crafting:1b}] run function chest_boats:boat2 {boat_type:"cherry"}
 execute as @a if items entity @s inventory.* cherry_chest_boat[custom_data~{better_vehicle_crafting:1b}] run function chest_boats:boat2 {boat_type:"cherry"}
+
+execute as @a if items entity @s hotbar.* pale_oak_chest_boat[custom_data~{better_vehicle_crafting:1b}] run function chest_boats:boat2 {boat_type:"pale_oak"}
+execute as @a if items entity @s inventory.* pale_oak_chest_boat[custom_data~{better_vehicle_crafting:1b}] run function chest_boats:boat2 {boat_type:"pale_oak"}
