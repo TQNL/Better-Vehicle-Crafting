@@ -9,7 +9,7 @@
     "id": "minecraft:tnt_minecart",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Minecart and TNT\"}",
+      "minecraft:custom_name": "Minecart and TNT",
       "minecraft:custom_data": {
         "cart_type": "tnt",
         "better_vehicle_crafting": true

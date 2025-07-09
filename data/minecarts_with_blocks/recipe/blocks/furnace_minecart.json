@@ -9,7 +9,7 @@
     "id": "minecraft:furnace_minecart",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Minecart and Furnace\"}",
+      "minecraft:custom_name": "Minecart and Furnace",
       "minecraft:custom_data": {
         "cart_type": "furnace",
         "better_vehicle_crafting": true
