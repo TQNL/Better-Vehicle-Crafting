@@ -6,12 +6,8 @@
     "III"
   ],
   "key": {
-    "C": {
-      "item": "minecraft:chest"
-    },
-    "I": {
-      "item": "minecraft:acacia_planks"
-    }
+    "C": "minecraft:chest",
+    "I": "minecraft:acacia_planks"
   },
   "result": {
     "id": "minecraft:acacia_chest_boat"

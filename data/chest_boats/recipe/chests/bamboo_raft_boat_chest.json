@@ -3,9 +3,7 @@
   "category": "misc",
   "group": "chest_boat_uncrafts",
   "ingredients": [
-    {
-      "item": "minecraft:bamboo_chest_raft"
-    }
+    "minecraft:bamboo_chest_raft"
   ],
   "result": {
     "id": "minecraft:bamboo_chest_raft",

@@ -6,12 +6,8 @@
     "III"
   ],
   "key": {
-    "C": {
-      "item": "minecraft:chest"
-    },
-    "I": {
-      "item": "minecraft:dark_oak_planks"
-    }
+    "C": "minecraft:chest",
+    "I": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "minecraft:dark_oak_chest_boat"

@@ -3,9 +3,7 @@
   "category": "misc",
   "group": "chest_boat_uncrafts",
   "ingredients": [
-    {
-      "item": "minecraft:mangrove_chest_boat"
-    }
+    "minecraft:mangrove_chest_boat"
   ],
   "result": {
     "id": "minecraft:mangrove_chest_boat",
