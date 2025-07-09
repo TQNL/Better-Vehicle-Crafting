@@ -3,9 +3,7 @@
   "category": "misc",
   "group": "chest_boat_uncrafts",
   "ingredients": [
-    {
-      "item": "minecraft:spruce_chest_boat"
-    }
+    "minecraft:spruce_chest_boat"
   ],
   "result": {
     "id": "minecraft:spruce_chest_boat",

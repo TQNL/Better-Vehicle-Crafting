@@ -6,12 +6,8 @@
     "III"
   ],
   "key": {
-    "C": {
-      "item": "minecraft:chest"
-    },
-    "I": {
-      "item": "minecraft:jungle_planks"
-    }
+    "C": "minecraft:chest",
+    "I": "minecraft:jungle_planks"
   },
   "result": {
     "id": "minecraft:jungle_chest_boat"
